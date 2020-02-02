@@ -56,10 +56,6 @@ import { write, watchFile } from 'fs';
           console.log("Error getting directory information.")
         } else {
           deleteLocalFiles(files);
-          // files.forEach(function (file: any) {
-          //   console.log(file);
-          //   fs.unlinkSync(testFolder + file);
-          // })
         }
       })
     });
