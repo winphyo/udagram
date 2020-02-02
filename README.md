@@ -21,4 +21,4 @@ Have created by `eb init` a new application and `eb create` a new environment to
 
 ### To ACCESS and TEST
 
-http://54.165.247.210/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg
+http://54.165.247.210/filteredimage?image_url=https://www.telenor.com.mm/sites/default/files/telenor-business.jpg
